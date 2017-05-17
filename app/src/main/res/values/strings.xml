@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="value">Send</string>
+    <string name="name">View</string>
+</resources>
